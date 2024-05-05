@@ -75,7 +75,6 @@ img {
     justify-content: space-between;
     padding: 0 15px;
     border-radius: 5px;
-    margin-bottom: 20px;
     cursor: pointer;
 }
 
@@ -84,15 +83,15 @@ img {
     text-decoration: line-through;
 }
 
-p { 
+.copy { 
     display: flex;
     justify-content: center;
     margin-top: 20px;
-    color: #5c5c5c;
+    color: #242424;
     font-size: 12px;
 }
 
-p a {
+.copy a {
     margin-left: 5px;
     text-decoration: none;
 }
